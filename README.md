@@ -1,16 +1,68 @@
-## Hi there 👋
+# 👋 Hi, I'm Marihan Sabry
 
-<!--
-**maryhansabry/MaryhanSabry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI Student | Machine Learning, Deep Learning & Computer Vision Enthusiast
+🚀 Passionate about building intelligent systems using real-world data
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+
+I'm an Artificial Intelligence student focused on designing and implementing machine learning and deep learning solutions.
+I enjoy working on computer vision projects and transforming data into meaningful insights.
+
+---
+
+## 💡 Interests
+
+* 🧠 Machine Learning
+* 🤖 Deep Learning
+* 👁️ Computer Vision
+* 🗣️ Natural Language Processing
+* 📊 Data Science
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**
+Python
+
+**Machine Learning:**
+Scikit-learn | Pandas | NumPy
+
+**Deep Learning:**
+TensorFlow | PyTorch
+
+**Computer Vision:**
+OpenCV
+
+**Tools:**
+Streamlit | Jupyter Notebook | Git
+
+---
+
+## 🚀 Featured Projects
+
+* 🖼️ Image Processing Desktop App (Noise Reduction & Filters)
+* 😊 Facial Expression Recognition System
+* 🌦️ Weather Prediction using Machine Learning
+* 🧠 Deep Learning Experiments (CNN-based models)
+
+---
+
+## 📈 Currently Learning
+
+* Advanced Deep Learning Architectures
+* NLP with Transformers
+* Model Optimization & Deployment
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: (https://www.linkedin.com/in/maryhan-sabry-8314a2290/)
+* GitHub: https://github.com/maryhansabry
+
+---
+
+💭 *“The best way to learn AI is to build it.”*
