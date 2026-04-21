@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Marihan Sabry
+# 👋 Hi, I'm Maryhan Sabry
 
 🎓 AI Student | Machine Learning, Deep Learning & Computer Vision Enthusiast
 🚀 Passionate about building intelligent systems using real-world data
@@ -62,6 +62,7 @@ Streamlit | Jupyter Notebook | Git
 
 * LinkedIn: (https://www.linkedin.com/in/maryhan-sabry-8314a2290/)
 * GitHub: https://github.com/maryhansabry
+* Gmail: maryhansabry022@gmail.com 
 
 ---
 
