@@ -1,69 +1,123 @@
 # 👋 Hi, I'm Maryhan Sabry
 
-🎓 AI Student | Machine Learning, Deep Learning & Computer Vision Enthusiast
-🚀 Passionate about building intelligent systems using real-world data
+**AI & Data Science Student | LLMs • Computer Vision • Machine Learning • Big Data**
+
+I'm an Artificial Intelligence student passionate about building intelligent systems that solve real-world problems. I enjoy working across the AI stack—from data processing and machine learning to computer vision, retrieval-augmented generation (RAG), and deploying AI applications.
 
 ---
 
-## 🌟 About Me
+## 🚀 What I Work On
 
-I'm an Artificial Intelligence student focused on designing and implementing machine learning and deep learning solutions.
-I enjoy working on computer vision projects and transforming data into meaningful insights.
-
----
-
-## 💡 Interests
-
-* 🧠 Machine Learning
-* 🤖 Deep Learning
+* 🤖 Machine Learning & Deep Learning
+* 🧠 Large Language Models (LLMs)
+* 🔎 Retrieval-Augmented Generation (RAG)
 * 👁️ Computer Vision
-* 🗣️ Natural Language Processing
-* 📊 Data Science
+* 📊 Data Science & Analytics
+* ⚡ Big Data with Apache Spark
+* 🌐 AI Web Applications
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-**Languages:**
-Python
+### Programming
 
-**Machine Learning:**
-Scikit-learn | Pandas | NumPy
+* Python
+* SQL
 
-**Deep Learning:**
-TensorFlow | PyTorch
+### AI & Machine Learning
 
-**Computer Vision:**
-OpenCV
+* Scikit-learn
+* TensorFlow
+* PyTorch
+* Pandas
+* NumPy
 
-**Tools:**
-Streamlit | Jupyter Notebook | Git
+### LLM & NLP
 
----
+* LangChain
+* FAISS
+* Sentence Transformers
+* BM25
+* Google Gemini API
+* Groq API
 
-## 🚀 Featured Projects
+### Computer Vision
 
-* 🖼️ Image Processing Desktop App (Noise Reduction & Filters)
-* 😊 Facial Expression Recognition System
-* 🌦️ Weather Prediction using Machine Learning
-* 🧠 Deep Learning Experiments (CNN-based models)
+* OpenCV
 
----
+### Big Data
 
-## 📈 Currently Learning
+* Apache Spark
 
-* Advanced Deep Learning Architectures
-* NLP with Transformers
-* Model Optimization & Deployment
+### Web & Deployment
 
----
-
-## 📫 Connect With Me
-
-* LinkedIn: (https://www.linkedin.com/in/maryhan-sabry-8314a2290/)
-* GitHub: https://github.com/maryhansabry
-* Gmail: maryhansabry022@gmail.com 
+* Streamlit
+* FastAPI
+* Git & GitHub
+* Jupyter Notebook
 
 ---
 
-💭 *“The best way to learn AI is to build it.”*
+## 🌟 Featured Projects
+
+### 🎙 AI Voice Assistant with RAG
+
+* Built a multilingual AI assistant powered by Retrieval-Augmented Generation.
+* Integrated LLMs with speech-to-text and text-to-speech.
+* Semantic search using FAISS and BM25.
+* FastAPI backend with real-time interaction.
+
+---
+
+### 🚖 Taxi Trip Duration Prediction
+
+* Processed large-scale transportation data using Apache Spark.
+* Trained and evaluated machine learning models.
+* Optimized preprocessing for scalable analytics.
+
+---
+
+### 😊 Facial Expression Recognition
+
+* Deep learning model for emotion classification.
+* Image preprocessing and CNN-based training.
+* Computer vision pipeline using OpenCV.
+
+---
+
+### 🖼 Image Processing Desktop Application
+
+* Image enhancement and filtering.
+* Noise reduction techniques.
+* Interactive desktop interface.
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced LLM Applications
+* AI Agents
+* MLOps
+* Model Deployment
+* Distributed AI Systems
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maryhansabry\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maryhansabry\&layout=compact\&theme=tokyonight)
+
+---
+
+## 📫 Connect with Me
+
+* 💼 LinkedIn: https://www.linkedin.com/in/maryhan-sabry-8314a2290/
+* 💻 GitHub: https://github.com/maryhansabry
+* 📧 Email: [maryhansabry022@gmail.com](mailto:maryhansabry022@gmail.com)
+
+---
+
+> *"Building AI isn't just about training models—it's about creating intelligent solutions that make an impact."*
