@@ -103,7 +103,9 @@ I'm an Artificial Intelligence student passionate about building intelligent sys
 * Distributed AI Systems
 
 ---
+## 🛠️ Languages & Tools
 
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,numpy,pandas,opencv,git,github,fastapi,streamlit,postgres,mysql)](https://skillicons.dev)
 ---
 
 ## 📫 Connect with Me
