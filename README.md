@@ -105,7 +105,7 @@ I'm an Artificial Intelligence student passionate about building intelligent sys
 ---
 ## 🛠️ Languages & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,numpy,pandas,opencv,git,github,fastapi,streamlit,postgres,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,numpy,pandas,opencv,git,github,fastapi,streamlit,postgres,mysql)]
 ---
 
 ## 📫 Connect with Me
