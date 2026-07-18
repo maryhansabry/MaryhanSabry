@@ -103,7 +103,6 @@ I'm an Artificial Intelligence student passionate about building intelligent sys
 * Distributed AI Systems
 
 ---
-## 🛠️ Languages & Tools
 
 ## 🛠️ Languages & Tools
 
@@ -174,20 +173,12 @@ I'm an Artificial Intelligence student passionate about building intelligent sys
   <img src="https://skillicons.dev/icons?i=linux" height="45"/>
 </a>
 
-<!-- PostgreSQL -->
-<a href="https://www.postgresql.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=postgres" height="45"/>
-</a>
-
 <!-- MySQL -->
 <a href="https://www.mysql.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=mysql" height="45"/>
 </a>
 
-<!-- SQLite -->
-<a href="https://www.sqlite.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=sqlite" height="45"/>
-</a>
+
 
 </p>
 
@@ -212,6 +203,7 @@ I'm an Artificial Intelligence student passionate about building intelligent sys
 </a>
 
 </p>
+
 ---
 
 ## 📫 Connect with Me
