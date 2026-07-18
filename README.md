@@ -105,7 +105,113 @@ I'm an Artificial Intelligence student passionate about building intelligent sys
 ---
 ## 🛠️ Languages & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,numpy,pandas,opencv,git,github,fastapi,streamlit,postgres,mysql)]
+## 🛠️ Languages & Tools
+
+<p align="left">
+
+<!-- Python -->
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=python" height="45"/>
+</a>
+
+<!-- PyTorch -->
+<a href="https://pytorch.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=pytorch" height="45"/>
+</a>
+
+<!-- TensorFlow -->
+<a href="https://www.tensorflow.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="45"/>
+</a>
+
+<!-- Scikit-Learn -->
+<a href="https://scikit-learn.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=sklearn" height="45"/>
+</a>
+
+<!-- Pandas -->
+<a href="https://pandas.pydata.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=pandas" height="45"/>
+</a>
+
+<!-- NumPy -->
+<a href="https://numpy.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=numpy" height="45"/>
+</a>
+
+<!-- OpenCV -->
+<a href="https://opencv.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=opencv" height="45"/>
+</a>
+
+<!-- FastAPI -->
+<a href="https://fastapi.tiangolo.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=fastapi" height="45"/>
+</a>
+
+<!-- Streamlit -->
+<a href="https://streamlit.io/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=streamlit" height="45"/>
+</a>
+
+<!-- Git -->
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=git" height="45"/>
+</a>
+
+<!-- GitHub -->
+<a href="https://github.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+
+<!-- Docker -->
+<a href="https://www.docker.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=docker" height="45"/>
+</a>
+
+<!-- Linux -->
+<a href="https://www.linux.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linux" height="45"/>
+</a>
+
+<!-- PostgreSQL -->
+<a href="https://www.postgresql.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=postgres" height="45"/>
+</a>
+
+<!-- MySQL -->
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=mysql" height="45"/>
+</a>
+
+<!-- SQLite -->
+<a href="https://www.sqlite.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=sqlite" height="45"/>
+</a>
+
+</p>
+
+### 🤖 AI & LLM Ecosystem
+
+<p align="left">
+
+<a href="https://python.langchain.com/">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" width="40"/>
+</a>
+
+<a href="https://huggingface.co/">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/huggingface.svg" width="40"/>
+</a>
+
+<a href="https://ai.google.dev/">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/google.svg" width="40"/>
+</a>
+
+<a href="https://faiss.ai/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Facebook_F_icon.svg" width="40"/>
+</a>
+
+</p>
 ---
 
 ## 📫 Connect with Me
