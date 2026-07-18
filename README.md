@@ -104,12 +104,6 @@ I'm an Artificial Intelligence student passionate about building intelligent sys
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maryhansabry\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maryhansabry\&layout=compact\&theme=tokyonight)
-
 ---
 
 ## 📫 Connect with Me
